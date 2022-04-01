@@ -1,0 +1,48 @@
+Room Number 1 got Senara
+First Name        :  Senara
+Surname           :  Egodage
+Number of Guests  :  1
+Credit Card Number:  789456
+
+Room Number 2 got Thilina
+First Name        :  Thilina
+Surname           :  Egodage
+Number of Guests  :  2
+Credit Card Number:  789456
+
+Room Number 3 got Rashmi
+First Name        :  Rashmi
+Surname           :  Waduthanthri
+Number of Guests  :  3
+Credit Card Number:  789456
+
+Room Number 4 got Dilhara
+First Name        :  Dilhara
+Surname           :  De Silva
+Number of Guests  :  4
+Credit Card Number:  789456
+
+Room Number 5 got Sandanjali
+First Name        :  Sandanjali
+Surname           :  Ranasooriya
+Number of Guests  :  5
+Credit Card Number:  789456
+
+Room Number 6 got Shehani
+First Name        :  Shehani
+Surname           :  Magallahewa
+Number of Guests  :  6
+Credit Card Number:  789456
+
+Room Number 7 got Thanushka
+First Name        :  Thanushka
+Surname           :  Pemmawadu
+Number of Guests  :  7
+Credit Card Number:  789456
+
+Room Number 8 got Venushi
+First Name        :  Venushi
+Surname           :  Maleesa
+Number of Guests  :  8
+Credit Card Number:  789456
+
