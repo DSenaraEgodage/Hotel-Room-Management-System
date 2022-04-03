@@ -162,6 +162,7 @@ public class Hotel {
         main_menu(empty,persons,queue_str,queue_num); //calling main_menu
 
     }
+    //bh
     public static void deleteCustomer(Room[] del,Person[] persons,Queue_Str queue_str,Queue_Num queue_num){
         System.out.println("-----------------------------------------------------------------------------------------------------");
         System.out.println("   --Delete_Customer_from_Room--"); //message given to the user
